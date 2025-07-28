@@ -1,0 +1,1127 @@
+DataID,LectinName,Provider,primscreen,link,concentration,DataSource
+1,"Aegopodium Podagraria Lectin","EY Labs",primscreen_4438,,100,CFG
+2,"Agaricus Bisporus Agglutinin","EY Labs",primscreen_4226,,1,CFG
+3,"Agaricus Bisporus Agglutinin","EY Labs",primscreen_4228,,10,CFG
+4,"Agaricus Bisporus Agglutinin","EY Labs",primscreen_4227,,100,CFG
+5,"Anguilla Anguilla Agglutinin","EY Labs",primscreen_4446,,0.1,CFG
+6,"Anguilla Anguilla Agglutinin","EY Labs",primscreen_4444,,1,CFG
+7,"Anguilla Anguilla Agglutinin","EY Labs",primscreen_4450,,1,CFG
+8,"Anguilla Anguilla Agglutinin","EY Labs",primscreen_4443,,10,CFG
+9,"Anguilla Anguilla Agglutinin","EY Labs",primscreen_4442,,100,CFG
+10,"Aleuria Aurantia Lectin",Vector,primscreen_4210,,0.01,CFG
+11,"Aleuria Aurantia Lectin",Vector,primscreen_4211,,0.1,CFG
+12,"Aleuria Aurantia Lectin",Vector,primscreen_4212,,1,CFG
+13,"Aleuria Aurantia Lectin",Vector,primscreen_4213,,10,CFG
+14,"Aleuria Aurantia Lectin",Vector,primscreen_4214,,100,CFG
+15,"Allium Sativum Agglutinin","EY Labs",primscreen_4437,,100,CFG
+16,"Allium Sativum Agglutinin","EY Labs",primscreen_4439,,100,CFG
+17,"Amaranthus Caudatus Agglutinin","EY Labs",primscreen_4436,,10,CFG
+18,"Amaranthus Caudatus Agglutinin",Vector,primscreen_4188,,0.01,CFG
+19,"Amaranthus Caudatus Agglutinin",Vector,primscreen_4183,,0.1,CFG
+20,"Amaranthus Caudatus Agglutinin",Vector,primscreen_4187,,0.3,CFG
+21,"Amaranthus Caudatus Agglutinin",Vector,primscreen_4184,,1,CFG
+22,"Amaranthus Caudatus Agglutinin",Vector,primscreen_4185,,10,CFG
+23,"Amaranthus Caudatus Agglutinin",Vector,primscreen_4186,,100,CFG
+24,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4197,,0.01,CFG
+25,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4191,,0.1,CFG
+26,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4200,,1,CFG
+27,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4564,,1,CFG
+28,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4194,,10,CFG
+29,"Arum Maculatum Agglutinin","EY Labs",primscreen_4189,,0.1,CFG
+30,"Arum Maculatum Agglutinin","EY Labs",primscreen_4181,,1,CFG
+31,"Arum Maculatum Agglutinin","EY Labs",primscreen_4182,,10,CFG
+32,"Arum Maculatum Agglutinin","EY Labs",primscreen_4190,,100,CFG
+33,"Aspergillus Fumigatus Lectin ","Investigator Provided",primscreen_2674,,0.01,CFG
+34,"Aspergillus Fumigatus Lectin ","Investigator Provided",primscreen_2671,,200,CFG
+35,"Aspergillus Oryzae Lectin",TCL,primscreen_4215,,0.1,CFG
+36,"Aspergillus Oryzae Lectin",TCL,primscreen_4216,,1,CFG
+37,"Aspergillus Oryzae Lectin",TCL,primscreen_4217,,10,CFG
+38,"Aspergillus Oryzae Lectin",TCL,primscreen_4218,,100,CFG
+39,"Bauhinia Purpurea Lectin","EY Labs",primscreen_4441,,10,CFG
+40,"Bauhinia Purpurea Lectin",Vector,primscreen_4445,,0.1,CFG
+41,"Bauhinia Purpurea Lectin",Vector,primscreen_4447,,1,CFG
+42,"Bauhinia Purpurea Lectin",Vector,primscreen_4448,,10,CFG
+43,"Bauhinia Purpurea Lectin",Vector,primscreen_4449,,100,CFG
+44,"Bryonia Dioica Agglutinin","EY Labs",primscreen_4440,,100,CFG
+45,"Bryothamnion Triquetrum Lectin","Investigator Provided",primscreen_5589,,0.2,CFG
+46,"Bryothamnion Triquetrum Lectin","Investigator Provided",primscreen_5588,,2,CFG
+47,"Bryothamnion Triquetrum Lectin","Investigator Provided",primscreen_5586,,200,CFG
+48,"Bryothamnion Triquetrum Lectin","Investigator Provided",primscreen_5587,,200,CFG
+49,"Canavalia Ensiformis Agglutinin","EY Labs",primscreen_4464,,0.1,CFG
+50,"Canavalia Ensiformis Agglutinin","EY Labs",primscreen_4465,,0.5,CFG
+51,"Canavalia Ensiformis Agglutinin","EY Labs",primscreen_4466,,1,CFG
+52,"Canavalia Ensiformis Agglutinin","EY Labs",primscreen_4467,,10,CFG
+53,"Canavalia Ensiformis Agglutinin","EY Labs",primscreen_4468,,50,CFG
+54,"Canavalia Ensiformis Agglutinin","EY Labs",primscreen_4469,,100,CFG
+55,"Canavalia Ensiformis Agglutinin",Vector,primscreen_4460,,1,CFG
+56,"Canavalia Ensiformis Agglutinin",Vector,primscreen_4461,,5,CFG
+57,"Canavalia Ensiformis Agglutinin",Vector,primscreen_4462,,10,CFG
+58,"Canavalia Ensiformis Agglutinin",Vector,primscreen_4463,,50,CFG
+59,"Cancer Antennarius Agglutinin","EY Labs",primscreen_4459,,100,CFG
+60,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4451,,0.1,CFG
+61,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4455,,0.1,CFG
+62,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4452,,1,CFG
+63,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4456,,1,CFG
+64,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4453,,10,CFG
+65,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4457,,10,CFG
+66,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4454,,100,CFG
+67,"Caragana Arborescens Agglutinin","EY Labs",primscreen_4458,,100,CFG
+68,"Cholera Toxin B",Sigma,primscreen_4774,,0.001,CFG
+69,"Cholera Toxin B",Sigma,primscreen_4775,,0.01,CFG
+70,"Cholera Toxin B",Sigma,primscreen_4776,,0.1,CFG
+71,"Cholera Toxin B",Sigma,primscreen_4777,,1,CFG
+72,"Cholera Toxin B",Sigma,primscreen_4778,,10,CFG
+73,"Clitocybe Nebularis Lectin","Investigator Provided",primscreen_4196,,0.1,CFG
+74,"Clitocybe Nebularis Lectin","Investigator Provided",primscreen_4192,,1,CFG
+75,"Clitocybe Nebularis Lectin","Investigator Provided",primscreen_4198,,10,CFG
+76,"Clitocybe Nebularis Lectin","Investigator Provided",primscreen_4195,,100,CFG
+77,"Clone 121SLE Anti-sLeA Antibody",Antibody,primscreen_5466,,0.1,CFG
+78,"Clone 121SLE Anti-sLeA Antibody",Antibody,primscreen_3889,,0.2,CFG
+79,"Clone 121SLE Anti-sLeA Antibody",Antibody,primscreen_5465,,1,CFG
+80,"Clone 121SLE Anti-sLeA Antibody",Antibody,primscreen_3884,,2,CFG
+81,"Clone 121SLE Anti-sLeA Antibody",Antibody,primscreen_5464,,10,CFG
+82,"Clone 121SLE Anti-sLeA Antibody",Antibody,primscreen_3881,,20,CFG
+83,"Clone 17-206 Anti-Blood Group H1 Antibody",Antibody,primscreen_2819,,20,CFG
+84,"Clone 2-25LE Anti-Lewis B Antibody",Antibody,primscreen_5453,,5,CFG
+85,"Clone 2-25LE Anti-Lewis B Antibody",Antibody,primscreen_5452,,10,CFG
+86,"Clone 2-25LE Anti-Lewis B Antibody",Antibody,primscreen_5451,,50,CFG
+87,"Clone 28 Anti-LewX Antibody",Antibody,primscreen_5460,,0.1,CFG
+88,"Clone 28 Anti-LewX Antibody",Antibody,primscreen_5459,,1,CFG
+89,"Clone 28 Anti-LewX Antibody",Antibody,primscreen_5458,,10,CFG
+90,"Clone 7LE Anti-Lewis A Antibody",Antibody,primscreen_5446,,0.1,CFG
+91,"Clone 7LE Anti-Lewis A Antibody",Antibody,primscreen_5445,,1,CFG
+92,"Clone 7LE Anti-Lewis A Antibody",Antibody,primscreen_5531,,2,CFG
+93,"Clone 7LE Anti-Lewis A Antibody",Antibody,primscreen_5443,,10,CFG
+94,"Clone 7LE Anti-Lewis A Antibody",Antibody,primscreen_5530,,20,CFG
+95,"Clone A46-B/B10 Anti-Blood Group H2 Antibody",Antibody,primscreen_5428,,10,CFG
+96,"Clone A46-B/B10 Anti-Blood Group H2 Antibody",Antibody,primscreen_5427,,100,CFG
+97,"Clone Bric231 Anti-Blood Group H2 Antibody",Antibody,primscreen_2823,,20,CFG
+98,"Clone F3 Anti-LewY Antibody",Antibody,primscreen_5447,,1:10,CFG
+99,"Clone F3 Anti-LewY Antibody",Antibody,primscreen_5442,,1:100,CFG
+100,"Clone F3 Anti-LewY Antibody",Antibody,primscreen_5444,,1:50,CFG
+101,"Clone STn 219 Anti-Sialyl Tn Antibody",Antibody,primscreen_5457,,10,CFG
+102,"Clone STn 219 Anti-Sialyl Tn Antibody",Antibody,primscreen_5456,,100,CFG
+103,"Clone T174 Anti-LewA Antibody",Antibody,primscreen_5450,,0.1,CFG
+104,"Clone T174 Anti-LewA Antibody",Antibody,primscreen_5449,,1,CFG
+105,"Clone T174 Anti-LewA Antibody",Antibody,primscreen_5448,,10,CFG
+106,"Clone T218 Anti-LewB Antibody",Antibody,primscreen_5426,,2,CFG
+107,"Clone T218 Anti-LewB Antibody",Antibody,primscreen_5425,,10,CFG
+108,"Clone T218 Anti-LewB Antibody",Antibody,primscreen_5424,,50,CFG
+109,"Codium Fragile Lectin",Sigma,primscreen_4518,,0.1,CFG
+110,"Codium Fragile Lectin",Sigma,primscreen_4519,,1,CFG
+111,"Codium Fragile Lectin",Sigma,primscreen_4520,,10,CFG
+112,"Codium Fragile Lectin",Sigma,primscreen_4521,,100,CFG
+113,"Colchicum Autumnale Lectin","EY Labs",primscreen_4451,,0.1,CFG
+114,"Colchicum Autumnale Lectin","EY Labs",primscreen_4452,,1,CFG
+115,"Colchicum Autumnale Lectin","EY Labs",primscreen_4453,,10,CFG
+116,"Colchicum Autumnale Lectin","EY Labs",primscreen_4454,,100,CFG
+117,"Cytisus Sscoparius Agglutinin","EY Labs",primscreen_4550,,0.1,CFG
+118,"Cytisus Sscoparius Agglutinin","EY Labs",primscreen_4551,,1,CFG
+119,"Cytisus Sscoparius Agglutinin","EY Labs",primscreen_4552,,10,CFG
+120,"Cytisus Sscoparius Agglutinin","EY Labs",primscreen_4553,,100,CFG
+121,"Datura Stramonium Agglutinin","EY Labs",primscreen_4482,,100,CFG
+122,"Datura Stramonium Agglutinin",Seikagaku,primscreen_4782,,10,CFG
+123,"Datura Stramonium Agglutinin",Vector,primscreen_4510,,0.1,CFG
+124,"Datura Stramonium Agglutinin",Vector,primscreen_4511,,1,CFG
+125,"Datura Stramonium Agglutinin",Vector,primscreen_4512,,10,CFG
+126,"Datura Stramonium Agglutinin",Vector,primscreen_4513,,100,CFG
+127,"Dolichos Biflorus Agglutinin",Vector,primscreen_4514,,0.1,CFG
+128,"Dolichos Biflorus Agglutinin",Vector,primscreen_4515,,1,CFG
+129,"Dolichos Biflorus Agglutinin",Vector,primscreen_4516,,10,CFG
+130,"Dolichos Biflorus Agglutinin",Vector,primscreen_4517,,100,CFG
+131,"Erythrina Crista-galli Lectin","EY Labs",primscreen_4480,,10,CFG
+132,"Erythrina Crista-galli Lectin",Vector,primscreen_4504,,0.01,CFG
+133,"Erythrina Crista-galli Lectin",Vector,primscreen_4505,,0.1,CFG
+134,"Erythrina Crista-galli Lectin",Vector,primscreen_4506,,0.5,CFG
+135,"Erythrina Crista-galli Lectin",Vector,primscreen_4507,,1,CFG
+136,"Erythrina Crista-galli Lectin",Vector,primscreen_4508,,5,CFG
+137,"Erythrina Crista-galli Lectin",Vector,primscreen_4509,,50,CFG
+138,"Euonymus Europaeus Agglutinin","EY Labs",primscreen_4476,,0.1,CFG
+139,"Euonymus Europaeus Agglutinin","EY Labs",primscreen_4477,,1,CFG
+140,"Euonymus Europaeus Agglutinin","EY Labs",primscreen_4478,,10,CFG
+141,"Euonymus Europaeus Agglutinin","EY Labs",primscreen_4479,,100,CFG
+142,"Euonymus Europaeus Agglutinin",Vector,primscreen_4500,,0.1,CFG
+143,"Euonymus Europaeus Agglutinin",Vector,primscreen_4501,,1,CFG
+144,"Euonymus Europaeus Agglutinin",Vector,primscreen_4502,,10,CFG
+145,"Euonymus Europaeus Agglutinin",Vector,primscreen_4503,,100,CFG
+146,"Galanthus Nivalis Agglutinin","EY Labs",primscreen_4492,,0.1,CFG
+147,"Galanthus Nivalis Agglutinin","EY Labs",primscreen_4493,,1,CFG
+148,"Galanthus Nivalis Agglutinin","EY Labs",primscreen_4494,,10,CFG
+149,"Galanthus Nivalis Agglutinin","EY Labs",primscreen_4495,,100,CFG
+150,"Galanthus Nivalis Agglutinin",Vector,primscreen_4496,,0.1,CFG
+151,"Galanthus Nivalis Agglutinin",Vector,primscreen_4497,,1,CFG
+152,"Galanthus Nivalis Agglutinin",Vector,primscreen_4498,,10,CFG
+153,"Galanthus Nivalis Agglutinin",Vector,primscreen_4499,,100,CFG
+154,"Human Galectin 1","Investigator Provided",primscreen_4166,,0.5,CFG
+155,"Human Galectin 1","Investigator Provided",primscreen_4167,,1,CFG
+156,"Human Galectin 1","Investigator Provided",primscreen_6424,,1,CFG
+157,"Human Galectin 1","Investigator Provided",primscreen_5766,,2,CFG
+158,"Human Galectin 1","Investigator Provided",primscreen_4168,,5,CFG
+159,"Human Galectin 1","Investigator Provided",primscreen_4163,,10,CFG
+160,"Human Galectin 1","Investigator Provided",primscreen_6422,,10,CFG
+161,"Human Galectin 1","Investigator Provided",primscreen_5765,,20,CFG
+162,"Human Galectin 1","Investigator Provided",primscreen_6420,,90,CFG
+163,"Human Galectin 1","Investigator Provided",primscreen_5764,,200,CFG
+164,"Griffonia Simplicifolia Lectin 1","EY Labs",primscreen_4475,,10,CFG
+165,"Griffonia Simplicifolia Lectin 1",Vector,primscreen_4488,,0.1,CFG
+166,"Griffonia Simplicifolia Lectin 1",Vector,primscreen_4489,,1,CFG
+167,"Griffonia Simplicifolia Lectin 1",Vector,primscreen_4490,,10,CFG
+168,"Griffonia Simplicifolia Lectin 1",Vector,primscreen_4491,,100,CFG
+169,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,primscreen_4554,,0.5,CFG
+170,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,primscreen_4555,,1,CFG
+171,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,primscreen_4556,,10,CFG
+172,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,primscreen_4557,,100,CFG
+173,"Griffonia Simplicifolia Lectin 2","EY Labs",primscreen_4471,,0.1,CFG
+174,"Griffonia Simplicifolia Lectin 2","EY Labs",primscreen_4472,,1,CFG
+175,"Griffonia Simplicifolia Lectin 2","EY Labs",primscreen_4473,,10,CFG
+176,"Griffonia Simplicifolia Lectin 2","EY Labs",primscreen_4474,,100,CFG
+177,"Griffonia Simplicifolia Lectin 2",Vector,primscreen_4484,,0.1,CFG
+178,"Griffonia Simplicifolia Lectin 2",Vector,primscreen_4485,,1,CFG
+179,"Griffonia Simplicifolia Lectin 2",Vector,primscreen_4486,,10,CFG
+180,"Griffonia Simplicifolia Lectin 2",Vector,primscreen_4487,,100,CFG
+181,"Helix Aspersa Agglutinin","EY Labs",primscreen_4541,,0.1,CFG
+182,"Helix Aspersa Agglutinin","EY Labs",primscreen_4542,,1,CFG
+183,"Helix Aspersa Agglutinin","EY Labs",primscreen_4543,,10,CFG
+184,"Helix Aspersa Agglutinin","EY Labs",primscreen_4544,,100,CFG
+185,"Helix Aspersa Agglutinin",Sigma,primscreen_4538,,0.01,CFG
+186,"Helix Aspersa Agglutinin",Sigma,primscreen_4539,,0.1,CFG
+187,"Helix Aspersa Agglutinin",Sigma,primscreen_4540,,1,CFG
+188,"Helix Pomatia Agglutinin","EY Labs",primscreen_4526,,0.1,CFG
+189,"Helix Pomatia Agglutinin","EY Labs",primscreen_4527,,1,CFG
+190,"Helix Pomatia Agglutinin","EY Labs",primscreen_4528,,10,CFG
+191,"Helix Pomatia Agglutinin","EY Labs",primscreen_4529,,100,CFG
+192,"Helix Pomatia Agglutinin",Sigma,primscreen_4545,,0.1,CFG
+193,"Helix Pomatia Agglutinin",Sigma,primscreen_4546,,1,CFG
+194,"Helix Pomatia Agglutinin",Sigma,primscreen_4547,,10,CFG
+195,"Helix Pomatia Agglutinin",Sigma,primscreen_4548,,100,CFG
+196,"Hippeastrum Hybrid Lectin","EY Labs",primscreen_4530,,0.1,CFG
+197,"Hippeastrum Hybrid Lectin","EY Labs",primscreen_4531,,1,CFG
+198,"Hippeastrum Hybrid Lectin","EY Labs",primscreen_4532,,10,CFG
+199,"Hippeastrum Hybrid Lectin","EY Labs",primscreen_4533,,100,CFG
+200,"Hippeastrum Hybrid Lectin",Vector,primscreen_4534,,0.1,CFG
+201,"Hippeastrum Hybrid Lectin",Vector,primscreen_4535,,1,CFG
+202,"Hippeastrum Hybrid Lectin",Vector,primscreen_4536,,10,CFG
+203,"Hippeastrum Hybrid Lectin",Vector,primscreen_4537,,100,CFG
+204,"Human Galectin 3","Investigator Provided",primscreen_6003,,0.5,CFG
+205,"Human Galectin 3","Investigator Provided",primscreen_6004,,2,CFG
+206,"Human Galectin 3","Investigator Provided",primscreen_6005,,5,CFG
+207,"Human Galectin 3","Investigator Provided",primscreen_6006,,10,CFG
+208,"Human Galectin 4","Investigator Provided",primscreen_5415,,0.5,CFG
+209,"Human Galectin 4","Investigator Provided",primscreen_5416,,5,CFG
+210,"Human Galectin 4","Investigator Provided",primscreen_5417,,50,CFG
+211,"Human Galectin 4","Investigator Provided",primscreen_5418,,100,CFG
+212,"Human Galectin 7","Investigator Provided",primscreen_6380,,2,CFG
+213,"Human Galectin 7","Investigator Provided",primscreen_6381,,5,CFG
+214,"Human Galectin 7","Investigator Provided",primscreen_6382,,200,CFG
+215,"Hypnea Musciformis Lectin","Investigator Provided",primscreen_5400,,2,CFG
+216,"Hypnea Musciformis Lectin","Investigator Provided",primscreen_5399,,20,CFG
+217,"Hypnea Musciformis Lectin","Investigator Provided",primscreen_5397,,200,CFG
+218,"Laburnum Alpinum Agglutinin ","EY Labs",primscreen_4567,,1,CFG
+219,"Laburnum Alpinum Agglutinin ","EY Labs",primscreen_4568,,10,CFG
+220,"Laburnum Alpinum Agglutinin ","EY Labs",primscreen_4569,,100,CFG
+221,"Lens Culinaris Agglutinin","EY Labs",primscreen_4577,,0.1,CFG
+222,"Lens Culinaris Agglutinin","EY Labs",primscreen_4578,,1,CFG
+223,"Lens Culinaris Agglutinin","EY Labs",primscreen_4579,,10,CFG
+224,"Lens Culinaris Agglutinin","EY Labs",primscreen_4580,,100,CFG
+225,"Lens Culinaris Agglutinin",Vector,primscreen_4573,,0.1,CFG
+226,"Lens Culinaris Agglutinin",Vector,primscreen_4574,,1,CFG
+227,"Lens Culinaris Agglutinin",Vector,primscreen_4575,,10,CFG
+228,"Lens Culinaris Agglutinin",Vector,primscreen_4576,,100,CFG
+229,"Lima Bean Agglutinin ","EY Labs",primscreen_4570,,1,CFG
+230,"Lima Bean Agglutinin ","EY Labs",primscreen_4571,,10,CFG
+231,"Lima Bean Agglutinin ","EY Labs",primscreen_4572,,100,CFG
+232,"Limax Flavus Agglutinin","EY Labs",primscreen_4590,,1,CFG
+233,"Limax Flavus Agglutinin","EY Labs",primscreen_4593,,10,CFG
+234,"Limax Flavus Agglutinin","EY Labs",primscreen_4594,,100,CFG
+235,"Limulus Polyphemus Agglutinin ","EY Labs",primscreen_4595,,100,CFG
+236,"Lotus Tetragonolobus Lectin","EY Labs",primscreen_4600,,10,CFG
+237,"Lotus Tetragonolobus Lectin",Vector,primscreen_4596,,0.1,CFG
+238,"Lotus Tetragonolobus Lectin",Vector,primscreen_4597,,1,CFG
+239,"Lotus Tetragonolobus Lectin",Vector,primscreen_4598,,10,CFG
+240,"Lotus Tetragonolobus Lectin",Vector,primscreen_4599,,100,CFG
+241,"Lycopersicon Esculentum Lectin","EY Labs",primscreen_4586,,1,CFG
+242,"Lycopersicon Esculentum Lectin","EY Labs",primscreen_4585,,100,CFG
+243,"Lycopersicon Esculentum Lectin",Vector,primscreen_4581,,0.1,CFG
+244,"Lycopersicon Esculentum Lectin",Vector,primscreen_4582,,1,CFG
+245,"Lycopersicon Esculentum Lectin",Vector,primscreen_4583,,10,CFG
+246,"Lycopersicon Esculentum Lectin",Vector,primscreen_4584,,100,CFG
+247,"Maackia Amurensis Lectin 1","EY Labs",primscreen_4605,,0.1,CFG
+248,"Maackia Amurensis Lectin 1","EY Labs",primscreen_4606,,1,CFG
+249,"Maackia Amurensis Lectin 1","EY Labs",primscreen_4607,,10,CFG
+250,"Maackia Amurensis Lectin 1","EY Labs",primscreen_4608,,100,CFG
+251,"Maackia Amurensis Lectin 1",Seikagaku,primscreen_4614,,0.1,CFG
+252,"Maackia Amurensis Lectin 1",Seikagaku,primscreen_4615,,1,CFG
+253,"Maackia Amurensis Lectin 1",Seikagaku,primscreen_4616,,10,CFG
+254,"Maackia Amurensis Lectin 1",Seikagaku,primscreen_4617,,100,CFG
+255,"Maackia Amurensis Lectin 1",Vector,primscreen_4601,,0.1,CFG
+256,"Maackia Amurensis Lectin 1",Vector,primscreen_4602,,1,CFG
+257,"Maackia Amurensis Lectin 1",Vector,primscreen_4603,,10,CFG
+258,"Maackia Amurensis Lectin 1",Vector,primscreen_4604,,100,CFG
+259,"Maackia Amurensis Lectin 2",Vector,primscreen_4619,,0.1,CFG
+260,"Maackia Amurensis Lectin 2",Vector,primscreen_4620,,1,CFG
+261,"Maackia Amurensis Lectin 2",Vector,primscreen_4622,,10,CFG
+262,"Maackia Amurensis Lectin 2",Vector,primscreen_4623,,100,CFG
+263,"Maclura Pomifera Agglutinin","EY Labs",primscreen_4632,,10,CFG
+264,"Maclura Pomifera Agglutinin",Vector,primscreen_4625,,0.1,CFG
+265,"Maclura Pomifera Agglutinin",Vector,primscreen_4629,,0.5,CFG
+266,"Maclura Pomifera Agglutinin",Vector,primscreen_4627,,1,CFG
+267,"Maclura Pomifera Agglutinin",Vector,primscreen_4630,,10,CFG
+268,"Maclura Pomifera Agglutinin",Vector,primscreen_4631,,100,CFG
+269,"Marasmium Oreades Agglutinin","EY Labs",primscreen_4794,,0.1,CFG
+270,"Marasmium Oreades Agglutinin","EY Labs",primscreen_4795,,1,CFG
+271,"Marasmium Oreades Agglutinin","EY Labs",primscreen_4796,,10,CFG
+272,"Morus Nigra Lectin","EY Labs",primscreen_4791,,10,CFG
+273,"Morus Nigra Lectin","EY Labs",primscreen_4792,,50,CFG
+274,"Morus Nigra Lectin","EY Labs",primscreen_4793,,100,CFG
+275,"Morus Nigra Lectin","Investigator Provided",primscreen_3433,,2,CFG
+276,"Morus Nigra Lectin","Investigator Provided",primscreen_3432,,10,CFG
+277,"Morus Nigra Lectin","Investigator Provided",primscreen_3431,,50,CFG
+278,"Mouse Siglec-E","Investigator Provided",primscreen_5613,,105,CFG
+279,"Mouse Siglec-F","Investigator Provided",primscreen_5654,,20,CFG
+280,"Mouse Siglec-F","Investigator Provided",primscreen_5614,,100,CFG
+281,"Musa Acuminata Lectin","Investigator Provided",primscreen_5926,,2,CFG
+282,"Musa Acuminata Lectin","Investigator Provided",primscreen_5928,,20,CFG
+283,"Musa Acuminata Lectin","Investigator Provided",primscreen_5927,,50,CFG
+284,"Musa Acuminata Lectin","Investigator Provided",primscreen_5929,,200,CFG
+285,"Narcissus Pseudonarcissus Agglutinin","EY Labs",primscreen_4587,,10,CFG
+286,"Narcissus Pseudonarcissus Agglutinin",Vector,primscreen_4588,,0.1,CFG
+287,"Narcissus Pseudonarcissus Agglutinin",Vector,primscreen_4589,,1,CFG
+288,"Narcissus Pseudonarcissus Agglutinin",Vector,primscreen_4591,,10,CFG
+289,"Narcissus Pseudonarcissus Agglutinin",Vector,primscreen_4592,,100,CFG
+290,"Orysata Sativa Lectin","Investigator Provided",primscreen_3427,,1,CFG
+291,"Orysata Sativa Lectin","Investigator Provided",primscreen_3426,,5,CFG
+292,"Orysata Sativa Lectin","Investigator Provided",primscreen_3425,,25,CFG
+293,"Orysata Sativa Lectin","Investigator Provided",primscreen_3424,,50,CFG
+294,"Peanut Agglutinin","EY Labs",primscreen_4680,,1,CFG
+295,"Peanut Agglutinin","EY Labs",primscreen_4671,,10,CFG
+296,"Peanut Agglutinin","EY Labs",primscreen_4681,,10,CFG
+297,"Peanut Agglutinin","EY Labs",primscreen_4682,,100,CFG
+298,"Peanut Agglutinin",Vector,primscreen_4675,,0.1,CFG
+299,"Peanut Agglutinin",Vector,primscreen_4677,,1,CFG
+300,"Peanut Agglutinin",Vector,primscreen_4678,,10,CFG
+301,"Peanut Agglutinin",Vector,primscreen_4679,,100,CFG
+302,"Phaseolus Vulgaris Erythroagglutinin","EY Labs",primscreen_4621,,0.1,CFG
+303,"Phaseolus Vulgaris Erythroagglutinin","EY Labs",primscreen_4624,,1,CFG
+304,"Phaseolus Vulgaris Erythroagglutinin","EY Labs",primscreen_4626,,10,CFG
+305,"Phaseolus Vulgaris Erythroagglutinin","EY Labs",primscreen_4628,,100,CFG
+306,"Phaseolus Vulgaris Erythroagglutinin",Vector,primscreen_4610,,0.1,CFG
+307,"Phaseolus Vulgaris Erythroagglutinin",Vector,primscreen_4611,,1,CFG
+308,"Phaseolus Vulgaris Erythroagglutinin",Vector,primscreen_4612,,10,CFG
+309,"Phaseolus Vulgaris Erythroagglutinin",Vector,primscreen_4613,,100,CFG
+310,"Phaseolus Vulgaris Leucoagglutinin","EY Labs",primscreen_4663,,0.1,CFG
+311,"Phaseolus Vulgaris Leucoagglutinin","EY Labs",primscreen_4665,,1,CFG
+312,"Phaseolus Vulgaris Leucoagglutinin","EY Labs",primscreen_4667,,10,CFG
+313,"Phaseolus Vulgaris Leucoagglutinin","EY Labs",primscreen_4668,,100,CFG
+314,"Pisum Sativum Agglutinin","EY Labs",primscreen_4634,,0.1,CFG
+315,"Pisum Sativum Agglutinin","EY Labs",primscreen_4635,,1,CFG
+316,"Pisum Sativum Agglutinin","EY Labs",primscreen_4638,,10,CFG
+317,"Pisum Sativum Agglutinin","EY Labs",primscreen_4687,,10,CFG
+318,"Pisum Sativum Agglutinin","EY Labs",primscreen_4639,,100,CFG
+319,"Pisum Sativum Agglutinin",Vector,primscreen_4683,,0.1,CFG
+320,"Pisum Sativum Agglutinin",Vector,primscreen_4684,,1,CFG
+321,"Pisum Sativum Agglutinin",Vector,primscreen_4685,,10,CFG
+322,"Pisum Sativum Agglutinin",Vector,primscreen_4686,,100,CFG
+323,"Psathyrella Velutina Lectin","Investigator Provided",primscreen_5693,,0.2,CFG
+324,"Psathyrella Velutina Lectin","Investigator Provided",primscreen_5695,,2,CFG
+325,"Psathyrella Velutina Lectin","Investigator Provided",primscreen_5696,,20,CFG
+326,"Psathyrella Velutina Lectin","Investigator Provided",primscreen_5697,,200,CFG
+327,"Pseudomonas Aeruginosa Lectin 1",Sigma,primscreen_4787,,0.1,CFG
+328,"Pseudomonas Aeruginosa Lectin 1",Sigma,primscreen_4788,,1,CFG
+329,"Pseudomonas Aeruginosa Lectin 1",Sigma,primscreen_4789,,10,CFG
+330,"Pseudomonas Aeruginosa Lectin 1",Sigma,primscreen_4790,,100,CFG
+331,"Psophocarpus Tetragonolobus Agglutinin","EY Labs",primscreen_4646,,0.1,CFG
+332,"Psophocarpus Tetragonolobus Agglutinin","EY Labs",primscreen_4647,,1,CFG
+333,"Psophocarpus Tetragonolobus Agglutinin","EY Labs",primscreen_4648,,10,CFG
+334,"Psophocarpus Tetragonolobus Agglutinin","EY Labs",primscreen_4649,,100,CFG
+335,"Psophocarpus Tetragonolobus Agglutinin 1",Vector,primscreen_4650,,0.1,CFG
+336,"Psophocarpus Tetragonolobus Agglutinin 1",Vector,primscreen_4651,,1,CFG
+337,"Psophocarpus Tetragonolobus Agglutinin 1",Vector,primscreen_4652,,10,CFG
+338,"Psophocarpus Tetragonolobus Agglutinin 1",Vector,primscreen_4653,,100,CFG
+339,"Psophocarpus Tetragonolobus Agglutinin 2",Vector,primscreen_4654,,0.1,CFG
+340,"Psophocarpus Tetragonolobus Agglutinin 2",Vector,primscreen_4655,,1,CFG
+341,"Psophocarpus Tetragonolobus Agglutinin 2",Vector,primscreen_4656,,10,CFG
+342,"Psophocarpus Tetragonolobus Agglutinin 2",Vector,primscreen_4657,,100,CFG
+343,"Ralstonia Solanacearum Lectin 1","Investigator Provided",primscreen_2675,,0.005,CFG
+344,"Sclerotium Rolfsii lectin","Investigator Provided",primscreen_5749,,0.2,CFG
+345,"Sclerotium Rolfsii lectin","Investigator Provided",primscreen_5750,,2,CFG
+346,"Ralstonia Solanacearum Lectin 1","Investigator Provided",primscreen_2672,,200,CFG
+347,"Sclerotium Rolfsii lectin","Investigator Provided",primscreen_5751,,200,CFG
+348,"Recombinant Bryothamnion Triquetrum Lectin","Investigator Provided",primscreen_5590,,2,CFG
+349,"Recombinant Bryothamnion Triquetrum Lectin","Investigator Provided",primscreen_5587,,200,CFG
+350,"Recombinant Sclerotium Rolfsii Lectin","Investigator Provided",primscreen_5746,,0.2,CFG
+351,"Recombinant Sclerotium Rolfsii Lectin","Investigator Provided",primscreen_5747,,2,CFG
+352,"Recombinant Sclerotium Rolfsii Lectin","Investigator Provided",primscreen_5748,,200,CFG
+353,"Ricinus Communis Agglutinin","EY Labs",primscreen_4659,,0.1,CFG
+354,"Ricinus Communis Agglutinin","EY Labs",primscreen_4660,,1,CFG
+355,"Ricinus Communis Agglutinin","EY Labs",primscreen_4661,,10,CFG
+356,"Ricinus Communis Agglutinin",Vector,primscreen_4662,,0.1,CFG
+357,"Ricinus Communis Agglutinin",Vector,primscreen_4664,,1,CFG
+358,"Ricinus Communis Agglutinin",Vector,primscreen_4666,,10,CFG
+359,"Ricinus Communis Agglutinin",Vector,primscreen_4669,,100,CFG
+360,"Robinia Pseudoacacia Agglutinin","EY Labs",primscreen_4670,,0.1,CFG
+361,"Robinia Pseudoacacia Agglutinin","EY Labs",primscreen_4672,,1,CFG
+362,"Robinia Pseudoacacia Agglutinin","EY Labs",primscreen_4673,,10,CFG
+363,"Robinia Pseudoacacia Agglutinin","EY Labs",primscreen_4674,,100,CFG
+364,"Sambucus Nigra Agglutinin 1","EY Labs",primscreen_4780,,0.1,CFG
+365,"Sambucus Nigra Agglutinin 1","EY Labs",primscreen_4781,,100,CFG
+366,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4699,,0.005,CFG
+367,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4700,,0.01,CFG
+368,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4701,,0.1,CFG
+369,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4702,,0.5,CFG
+370,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4703,,1,CFG
+371,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4704,,5,CFG
+372,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4705,,10,CFG
+373,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4706,,50,CFG
+374,"Sambucus Nigra Agglutinin 1",Vector,primscreen_4707,,100,CFG
+375,"Sambucus Nigra Agglutinin 2","EY Labs",primscreen_4708,,0.1,CFG
+376,"Sambucus Nigra Agglutinin 2","EY Labs",primscreen_4709,,1,CFG
+377,"Sambucus Nigra Agglutinin 2","EY Labs",primscreen_4710,,10,CFG
+378,"Sambucus Nigra Agglutinin 2","EY Labs",primscreen_4711,,100,CFG
+379,"Sclerotinia Sclerotiorum Agglutinin","Investigator Provided",primscreen_2001,,0.25,CFG
+380,"Sclerotinia Sclerotiorum Agglutinin","Investigator Provided",primscreen_2000,,0.5,CFG
+381,"Sclerotinia Sclerotiorum Agglutinin","Investigator Provided",primscreen_1999,,1,CFG
+382,Siglec-8,"Investigator Provided",primscreen_5650,,20,CFG
+383,Siglec-8,"Investigator Provided",primscreen_5605,,100,CFG
+384,Siglec-9,"Investigator Provided",primscreen_5653,,20,CFG
+385,Siglec-9,"Investigator Provided",primscreen_5611,,100,CFG
+386,"Solanum Tuberosum Lectin","EY Labs",primscreen_4716,,10,CFG
+387,"Solanum Tuberosum Lectin",Vector,primscreen_4712,,0.1,CFG
+388,"Solanum Tuberosum Lectin",Vector,primscreen_4713,,1,CFG
+389,"Solanum Tuberosum Lectin",Vector,primscreen_4714,,10,CFG
+390,"Solanum Tuberosum Lectin",Vector,primscreen_4715,,100,CFG
+391,"Sophora Japonica Agglutinin","EY Labs",primscreen_4779,,100,CFG
+392,"Sophora Japonica Agglutinin",Vector,primscreen_4696,,1,CFG
+393,"Sophora Japonica Agglutinin",Vector,primscreen_4697,,10,CFG
+394,"Sophora Japonica Agglutinin",Vector,primscreen_4698,,100,CFG
+395,"Soybean Agglutinin","EY Labs",primscreen_4693,,1,CFG
+396,"Soybean Agglutinin","EY Labs",primscreen_4692,,10,CFG
+397,"Soybean Agglutinin","EY Labs",primscreen_4694,,10,CFG
+398,"Soybean Agglutinin","EY Labs",primscreen_4695,,100,CFG
+399,"Soybean Agglutinin",Vector,primscreen_4688,,0.1,CFG
+400,"Soybean Agglutinin",Vector,primscreen_4689,,1,CFG
+401,"Soybean Agglutinin",Vector,primscreen_4690,,10,CFG
+402,"Soybean Agglutinin",Vector,primscreen_4691,,100,CFG
+403,"Trichosanthes Japonica Agglutinin 1",Seikagaku,primscreen_4717,,0.1,CFG
+404,"Trichosanthes Japonica Agglutinin 1",Seikagaku,primscreen_4718,,1,CFG
+405,"Trichosanthes Japonica Agglutinin 1",Seikagaku,primscreen_4719,,10,CFG
+406,"Trichosanthes Japonica Agglutinin 1",Seikagaku,primscreen_4720,,100,CFG
+407,"Trichosanthes Japonica Agglutinin 2",Seikagaku,primscreen_4721,,0.1,CFG
+408,"Trichosanthes Japonica Agglutinin 2",Seikagaku,primscreen_4722,,1,CFG
+409,"Trichosanthes Japonica Agglutinin 2",Seikagaku,primscreen_4723,,10,CFG
+410,"Trichosanthes Japonica Agglutinin 2",Seikagaku,primscreen_4724,,100,CFG
+411,"Trichosanthes Kirilowii Agglutinin","EY Labs",primscreen_4725,,100,CFG
+412,"Tulip Lectin","EY Labs",primscreen_4726,,1,CFG
+413,"Tulip Lectin","EY Labs",primscreen_4727,,3,CFG
+414,"Tulip Lectin","EY Labs",primscreen_4728,,10,CFG
+415,"Tulip Lectin","EY Labs",primscreen_4729,,100,CFG
+416,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4797,,0.01,CFG
+417,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4798,,0.1,CFG
+418,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4799,,0.5,CFG
+419,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4800,,1,CFG
+420,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4738,,10,CFG
+421,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4803,,10,CFG
+422,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4801,,50,CFG
+423,"Ulex Europaeus Agglutinin 1","EY Labs",primscreen_4802,,100,CFG
+424,"Ulex Europaeus Agglutinin 1",Vector,primscreen_4734,,0.1,CFG
+425,"Ulex Europaeus Agglutinin 1",Vector,primscreen_4735,,1,CFG
+426,"Ulex Europaeus Agglutinin 1",Vector,primscreen_4736,,10,CFG
+427,"Ulex Europaeus Agglutinin 1",Vector,primscreen_4737,,100,CFG
+428,"Ulex Europaeus Agglutinin 2","EY Labs",primscreen_4739,,1,CFG
+429,"Ulex Europaeus Agglutinin 2","EY Labs",primscreen_4740,,5,CFG
+430,"Ulex Europaeus Agglutinin 2","EY Labs",primscreen_4741,,10,CFG
+431,"Ulex Europaeus Agglutinin 2","EY Labs",primscreen_4742,,100,CFG
+432,"Urtica Dioica Agglutinin","EY Labs",primscreen_4730,,0.1,CFG
+433,"Urtica Dioica Agglutinin","EY Labs",primscreen_4731,,1,CFG
+434,"Urtica Dioica Agglutinin","EY Labs",primscreen_4732,,10,CFG
+435,"Urtica Dioica Agglutinin","EY Labs",primscreen_4733,,100,CFG
+436,"Vicia Faba Agglutinin","EY Labs",primscreen_4743,,100,CFG
+437,"Vicia Graminea Agglutinin","EY Labs",primscreen_4744,,1,CFG
+438,"Vicia Graminea Agglutinin","EY Labs",primscreen_4745,,10,CFG
+439,"Vicia Graminea Agglutinin","EY Labs",primscreen_4746,,100,CFG
+440,"Vicia Villosa Lectin","EY Labs",primscreen_4752,,1,CFG
+441,"Vicia Villosa Lectin","EY Labs",primscreen_4753,,10,CFG
+442,"Vicia Villosa Lectin","EY Labs",primscreen_4754,,100,CFG
+443,"Vicia Villosa Lectin",Vector,primscreen_4748,,0.1,CFG
+444,"Vicia Villosa Lectin",Vector,primscreen_4749,,1,CFG
+445,"Vicia Villosa Lectin",Vector,primscreen_4750,,10,CFG
+446,"Vicia Villosa Lectin",Vector,primscreen_4751,,100,CFG
+447,"Wheat Germ Agglutinin","EY Labs",primscreen_4765,,0.1,CFG
+448,"Wheat Germ Agglutinin","EY Labs",primscreen_4766,,0.5,CFG
+449,"Wheat Germ Agglutinin","EY Labs",primscreen_4767,,1,CFG
+450,"Wheat Germ Agglutinin","EY Labs",primscreen_4768,,10,CFG
+451,"Wheat Germ Agglutinin","EY Labs",primscreen_4769,,50,CFG
+452,"Wheat Germ Agglutinin","EY Labs",primscreen_4770,,100,CFG
+453,"Wheat Germ Agglutinin",Seikagaku,primscreen_4804,,0.01,CFG
+454,"Wheat Germ Agglutinin",Seikagaku,primscreen_4806,,0.04,CFG
+455,"Wheat Germ Agglutinin",Seikagaku,primscreen_4805,,0.2,CFG
+456,"Wheat Germ Agglutinin",Seikagaku,primscreen_4807,,1,CFG
+457,"Wheat Germ Agglutinin",Seikagaku,primscreen_4808,,10,CFG
+458,"Wheat Germ Agglutinin",Sigma,primscreen_4771,,0.1,CFG
+459,"Wheat Germ Agglutinin",Sigma,primscreen_4772,,0.5,CFG
+460,"Wheat Germ Agglutinin",Sigma,primscreen_4773,,1,CFG
+461,"Wheat Germ Agglutinin",Vector,primscreen_4760,,0.01,CFG
+462,"Wheat Germ Agglutinin",Vector,primscreen_4761,,0.1,CFG
+463,"Wheat Germ Agglutinin",Vector,primscreen_4762,,1,CFG
+464,"Wheat Germ Agglutinin",Vector,primscreen_4763,,10,CFG
+465,"Wheat Germ Agglutinin",Vector,primscreen_4764,,100,CFG
+466,"Wisteria Floribunda Agglutinin","EY Labs",primscreen_4759,,10,CFG
+467,"Wisteria Floribunda Agglutinin",Vector,primscreen_4755,,0.1,CFG
+468,"Wisteria Floribunda Agglutinin",Vector,primscreen_4756,,1,CFG
+469,"Wisteria Floribunda Agglutinin",Vector,primscreen_4757,,10,CFG
+470,"Wisteria Floribunda Agglutinin",Vector,primscreen_4758,,100,CFG
+471,"Aleuria Aurantia Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+472,"Aleuria Aurantia Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+473,"Canavalia Ensiformis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+474,"Canavalia Ensiformis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+475,"Dolichos Biflorus Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+476,"Dolichos Biflorus Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+477,"Datura Stramonium Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+478,"Datura Stramonium Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+479,"Erythrina Crista-galli Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+480,"Erythrina Crista-galli Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+481,"Galanthus Nivalis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+482,"Galanthus Nivalis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+483,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+484,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+485,"Griffonia Simplicifolia Lectin 2",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+486,"Griffonia Simplicifolia Lectin 2",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+487,"Helix Pomatia Agglutinin",Sigma,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+488,"Helix Pomatia Agglutinin",Sigma,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+489,"Lens Culinaris Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+490,"Lens Culinaris Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+491,"Lycopersicon Esculentum Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+492,"Lycopersicon Esculentum Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+493,"Maackia Amurensis Lectin 1",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+494,"Maackia Amurensis Lectin 1",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+495,"Maackia Amurensis Lectin 2",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+496,"Maackia Amurensis Lectin 2",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+497,"Phaseolus Vulgaris Erythroagglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+498,"Phaseolus Vulgaris Erythroagglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+499,"Phaseolus Vulgaris Leucoagglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+500,"Phaseolus Vulgaris Leucoagglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+501,"Peanut Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+502,"Peanut Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+503,"Ricinus Communis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+504,"Ricinus Communis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+505,"Soybean Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+506,"Soybean Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+507,"Sambucus Nigra Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+508,"Sambucus Nigra Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+509,"Ulex Europaeus Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+510,"Ulex Europaeus Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+511,"Vicia Villosa Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+512,"Vicia Villosa Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+513,"Wisteria Floribunda Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+514,"Wisteria Floribunda Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+515,"Wheat Germ Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,1,NCFG
+516,"Wheat Germ Agglutinin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data/lectin-quality-assurancequality-control,10,NCFG
+517,"Aleuria Aurantia Lectin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,1,ASNLinked
+518,"Aleuria Aurantia Lectin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+519,"Canavalia Ensiformis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,0.1,ASNLinked
+520,"Canavalia Ensiformis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,1,ASNLinked
+521,"Datura Stramonium Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+522,"Datura Stramonium Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+523,"Erythrina Crista-galli Lectin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+524,"Erythrina Crista-galli Lectin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+525,"Phaseolus Vulgaris Erythroagglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+526,"Phaseolus Vulgaris Erythroagglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+527,"Galanthus Nivalis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+528,"Galanthus Nivalis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+529,"Griffonia Simplicifolia Lectin 2",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+530,"Griffonia Simplicifolia Lectin 2",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+531,"Lens Culinaris Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+532,"Lens Culinaris Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+533,"Maackia Amurensis Lectin 1",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+534,"Maackia Amurensis Lectin 1",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+535,"Pisum Sativum Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+536,"Pisum Sativum Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+537,"Ricinus Communis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,1,ASNLinked
+538,"Ricinus Communis Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+539,"Sambucus Nigra Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+540,"Sambucus Nigra Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+541,"Ulex Europaeus Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+542,"Ulex Europaeus Agglutinin 1",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+543,"Wheat Germ Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,1,ASNLinked
+544,"Wheat Germ Agglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+545,"Human Galectin 1","Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,5,ASNLinked
+546,"Human Galectin 1","Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+547,"Human Galectin 3","Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,5,ASNLinked
+548,"Human Galectin 3","Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+549,Siglec-1,"Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+550,Siglec-2,"Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+551,Siglec-9,"Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+552,Siglec-10,"Investigator Provided",,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+553,"CCRC JIM16","Investigator Provided",,https://doi.org/10.1104/pp.17.00737,1X,PlantCellWall
+554,"INRA AX1","Investigator Provided",,https://doi.org/10.1104/pp.17.00737,1X,PlantCellWall
+555,"Melbourne BG1","Investigator Provided",,https://doi.org/10.1104/pp.17.00737,1X,PlantCellWall
+556,"CCRC M107","Investigator Provided",,https://doi.org/10.1104/pp.17.00737,1X,PlantCellWall
+557,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+558,"Amaranthus Caudatus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+559,"Bauhinia Purpurea Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+560,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+561,"Dolichos Biflorus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+562,"Datura Stramonium Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+563,"Erythrina Crista-galli Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+564,"Euonymus Europaeus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+565,"Galanthus Nivalis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+566,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+567,"Griffonia Simplicifolia Lectin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+568,"Griffonia Simplicifolia Lectin 2",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+569,"Hippeastrum Hybrid Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+570,"Artocarpus Integrifolia Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+571,"Lens Culinaris Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+572,"Lycopersicon Esculentum Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+573,"Lotus Tetragonolobus Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+574,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+575,"Maackia Amurensis Lectin 2",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+576,"Maclura Pomifera Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+577,"Narcissus Pseudonarcissus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+578,"Phaseolus Vulgaris Erythroagglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+579,"Phaseolus Vulgaris Leucoagglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+580,"Peanut Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+581,"Pisum Sativum Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+582,"Psophocarpus Tetragonolobus Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+583,"Psophocarpus Tetragonolobus Agglutinin 2",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+584,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+585,"Soybean Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+586,"Sophora Japonica Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+587,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+588,"Solanum Tuberosum Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+589,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+590,"Vicia Villosa Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+591,"Wisteria Floribunda Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+592,"Wheat Germ Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+593,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.001,NGGM-TM
+594,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.01,NGGM-TM
+595,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.1,NGGM-TM
+596,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,1,NGGM-TM
+597,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+598,"Bauhinia Purpurea Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.1,NGGM-TM
+599,"Bauhinia Purpurea Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,1,NGGM-TM
+600,"Bauhinia Purpurea Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+601,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.001,NGGM-TM
+602,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.01,NGGM-TM
+603,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.1,NGGM-TM
+604,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,1,NGGM-TM
+605,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+606,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+607,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+608,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+609,"Peanut Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+610,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,0.1,NGGM-TM
+611,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,1,NGGM-TM
+612,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+613,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,10,NGGM-TM
+614,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+615,"Bauhinia Purpurea Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+616,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+617,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+618,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+619,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+620,"Peanut Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+621,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+622,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+623,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1093/glycob/cwz100,0.01,AsymN
+624,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+625,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1093/glycob/cwz100,0.25,AsymN
+626,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+627,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+628,anti-CD15,Antibody,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+629,anti-CD15,Antibody,,https://doi.org/10.1093/glycob/cwz100,5,AsymN
+630,anti-CD15,Antibody,,https://doi.org/10.1093/glycob/cwz100,20,AsymN
+631,anti-CD15s,Antibody,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+632,anti-CD15s,Antibody,,https://doi.org/10.1093/glycob/cwz100,5,AsymN
+633,anti-CD15s,Antibody,,https://doi.org/10.1093/glycob/cwz100,20,AsymN
+634,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+635,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+636,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+637,"Cholera Toxin B",Sigma,,https://doi.org/10.1093/glycob/cwz100,5,AsymN
+638,"Cholera Toxin B",Sigma,,https://doi.org/10.1093/glycob/cwz100,50,AsymN
+639,"Galanthus Nivalis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+640,"Galanthus Nivalis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+641,"Galanthus Nivalis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+642,"Griffonia Simplicifolia Lectin 2","EY Labs",,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+643,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+644,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+645,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+646,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+647,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+648,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+649,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,50,AsymN
+650,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+651,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+652,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+653,Siglec-3,"Investigator Provided",,https://doi.org/10.3389/fmolb.2021.645999,20,AsymN
+654,Siglec-9,"Investigator Provided",,https://doi.org/10.3389/fmolb.2021.645999,20,AsymN
+655,Siglec-10,"Investigator Provided",,https://doi.org/10.3389/fmolb.2021.645999,20,AsymN
+656,"Mouse Siglec-F","Investigator Provided",,https://doi.org/10.3389/fmolb.2021.645999,20,AsymN
+657,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+658,"Clone ab3353 Anti-A Blood Group Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+659,"Clone 89F Anti-B Blood Group Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+660,"Clone 17-206 Anti-Blood Group H1 Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+661,"Clone Bric231 Anti-Blood Group H2 Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+662,"Clone Ma Anti-I Blood Group Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+663,"Clone P1A Anti-i Blood Group Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+664,"Clone Step Anti-I Blood Group Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+665,"Clone SIG-3314 Anti-LewA Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+666,"Clone SIG-3315 Anti-LewB Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+667,"Clone SIG-3339 Anti-LewX Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+668,"Clone SIG-3317 Anti-LewY Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+669,"Anti-LNT Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+670,"Anti-SSEA-1 Antibody",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+671,"Clone FC10.2 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+672,"Coprinopsis Cinerea Lectin 2","Investigator Provided",,,3,CFG
+673,"Coprinopsis Cinerea Lectin 2","Investigator Provided",,,30,CFG
+674,"Coprinopsis Cinerea Lectin 2","Investigator Provided",,,3,GHMO
+675,"Coprinopsis Cinerea Galectin 2","Investigator Provided",,,0.1,CFG
+676,"Coprinopsis Cinerea Galectin 2","Investigator Provided",,,10,CFG
+677,"Coprinopsis Cinerea Galectin 2","Investigator Provided",,,3,GHMO
+678,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,0.1,CEMAOGalNAc
+680,"Dolichos Biflorus Agglutinin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+681,"Erythrina Crista-galli Lectin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,1,CEMAOGalNAc
+682,"Griffonia Simplicifolia Lectin 2","EY Labs",,https://doi.org/10.1038/s41467-021-23428-x,10,CEMAOGalNAc
+683,H1N1_A_NewYork_18_2009,"Investigator Provided",,https://doi.org/10.1038/s41467-021-23428-x,10,CEMAOGalNAc
+684,H3N2_A_Brisbane_10_2007,"Investigator Provided",,https://doi.org/10.1038/s41467-021-23428-x,10,CEMAOGalNAc
+685,"Artocarpus Integrifolia Agglutinin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+686,"Lotus Tetragonolobus Lectin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+687,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1038/s41467-021-23428-x,10,CEMAOGalNAc
+688,"Peanut Agglutinin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+689,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+690,"Soybean Agglutinin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+691,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+692,"Solanum Tuberosum Lectin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+694,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+695,"Vicia Villosa Lectin",Vector,,https://doi.org/10.1038/s41467-021-23428-x,2,CEMAOGalNAc
+700,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.7b04293,1,GHMO
+706,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1021/acs.analchem.7b04293,10,GHMO
+707,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1021/acs.analchem.7b04293,10,GHMO
+708,"Agrocybe Cylindracea Galectin","FUJIFILM Wako",,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+716,"Griffonia Simplicifolia Lectin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+717,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+718,"Dolichos Biflorus Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,50,Microbial
+719,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+720,"Peanut Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+721,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+722,"Soybean Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+723,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,50,Microbial
+724,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,50,Microbial
+725,"Wheat Germ Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+726,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,1925,Microbial
+727,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,962.5,Microbial
+728,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,385,Microbial
+729,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,154,Microbial
+730,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,61.6,Microbial
+731,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,24.6,Microbial
+732,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,9.9,Microbial
+733,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,3.9,Microbial
+734,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,1.6,Microbial
+735,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,0.63,Microbial
+736,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,0.25,Microbial
+737,"Burkholderia Cenocepacia Lectin A","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,0.1,Microbial
+738,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,2100,Microbial
+739,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,1050,Microbial
+740,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,420,Microbial
+741,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,168,Microbial
+742,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,67.2,Microbial
+743,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,26.9,Microbial
+744,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,10.8,Microbial
+745,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,4.3,Microbial
+746,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,1.7,Microbial
+747,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,0.69,Microbial
+748,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,0.28,Microbial
+749,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,0.11,Microbial
+750,DC-SIGN,"Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,25,Microbial
+751,DC-SIGN,"Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,5,Microbial
+752,DC-SIGN,"Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,1,Microbial
+753,DC-SIGN,"Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,25,Microbial
+754,DC-SIGN,"Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,5,Microbial
+755,DC-SIGN,"Investigator Provided",,https://doi.org/10.1073/pnas.1800853116,1,Microbial
+756,"Macrophage Mannose Receptor","Investigator Provided",,https://doi.org/10.1007/s00018-021-03863-1,4,Schistosoma
+757,"Macrophage Mannose Receptor","Investigator Provided",,https://doi.org/10.1007/s00018-021-03863-1,4,Man6P
+758,"Macrophage Mannose Receptor","Investigator Provided",,https://doi.org/10.1007/s00018-021-03863-1,30,OligoMan
+759,"Macrophage Mannose Receptor","Investigator Provided",,https://doi.org/10.1007/s00018-021-03863-1,16,CFG
+760,"Macrophage Mannose Receptor","Investigator Provided",,https://doi.org/10.1016/j.jbc.2021.100368,400,CFG
+761,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+762,"Galanthus Nivalis Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+763,"Hippeastrum Hybrid Lectin",Vector,,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+764,"Narcissus Pseudonarcissus Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+765,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+766,Langerin,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+767,DC-SIGN,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+768,Dectin-2,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,5,OligoMan
+769,L-SIGN,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+770,"Clone 2G12 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+771,"Clone 2G12 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,5,OligoMan
+772,"Clone 2G12 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+773,"Clone 2G12 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+774,"Clone 2G12 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,50,OligoMan
+775,"Clone 2G12 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,200,OligoMan
+776,FimH,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+777,FimH,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+778,FimH,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,200,OligoMan
+779,FimH,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+780,FimH,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,50,OligoMan
+781,FimH,"Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,5,OligoMan
+782,"Clone PGT121 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+783,"Clone PGT126 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+784,"Clone PGT128 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+785,"Clone PGT145 bNAb","Investigator Provided",,https://doi.org/10.1126/sciadv.abf6834,25,OligoMan
+786,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+787,H1N1_A_PuertoRico_8_1934,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,1X,PolyLacNAc
+788,H1N1_A_Petersburg_27_2011,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,1X,PolyLacNAc
+789,H3N2_A_Brisbane_10_2007,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,1X,PolyLacNAc
+790,H5N8_A_gyrfalcon_Washington_41088-6_2014,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,1X,PolyLacNAc
+791,H7N9_A_Anhui_1_2013,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,1X,PolyLacNAc
+792,anti-CD15,Antibody,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+793,anti-CD15s,Antibody,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+794,anti-CD65s,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+795,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1039/d0cc03268a,0.1,PolyLacNAc
+796,"Erythrina Crista-galli Lectin",Vector,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+797,"Griffonia Simplicifolia Lectin 2",Vector,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+798,"Lotus Tetragonolobus Lectin",Vector,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+799,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+800,"Wheat Germ Agglutinin",Vector,,https://doi.org/10.1039/d0cc03268a,10,PolyLacNAc
+801,"Clone 3F1 Anti-sTn Antibody",Antibody,,https://doi.org/10.1093/glycob/cwaa048,50,SialoGlycanNGL
+802,Siglec-15,"Investigator Provided",,https://doi.org/10.1093/glycob/cwaa048,2,SialoGlycanNGL
+803,"Human Galectin 3","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,1,GHMO
+804,"Human Galectin 3","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,2,GHMO
+805,"Human Galectin 3","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,5,GHMO
+806,"Human Galectin 3","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,10,GHMO
+807,"Human Galectin 9","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,1,GHMO
+808,anti-CD15s,Antibody,,https://doi.org/10.1038/s41467-021-23428-x,20,CEMAOGalNAc
+809,"Clone STn 219 Anti-Sialyl Tn Antibody",Antibody,,https://doi.org/10.1038/s41467-021-23428-x,0.1X,CEMAOGalNAc
+810,"Cholera Toxin B",Sigma,,https://doi.org/10.1038/s42003-019-0507-2,2uM,CUPRA
+811,"Cholera Toxin B",Sigma,,https://doi.org/10.1038/s42003-019-0507-2,10uM,CUPRA
+812,"Maackia Amurensis Lectin 1",Sigma,,https://doi.org/10.1038/s42003-019-0507-2,50uM,CUPRA
+813,"Sambucus Nigra Agglutinin 1",Sigma,,https://doi.org/10.1038/s42003-019-0507-2,5uM,CUPRA
+814,"Cholera Toxin B",Sigma,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+815,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+816,"Soybean Agglutinin",Vector,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+817,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+818,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+819,"Clone 5A8E5 Anti-FLAG Antibody",Antibody,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+820,"Anti-Galf Antibody",Antibody,,https://doi.org/10.1038/s41589-021-00788-5,1X,LiGA
+839,"Erythrina Crista-galli Lectin","EY Labs",,https://doi.org/10.1093/glycob/cwz100,0.1,AsymN
+840,"Erythrina Crista-galli Lectin","EY Labs",,https://doi.org/10.1093/glycob/cwz100,1,AsymN
+841,"Erythrina Crista-galli Lectin","EY Labs",,https://doi.org/10.1093/glycob/cwz100,10,AsymN
+842,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+843,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+844,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+845,"Wheat Germ Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+846,"Clone TRA-1-60 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+847,"Clone TRA-1-81 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,,https://doi.org/10.1074/mcp.ra119.001309,1X,FeiziCLL
+848,"Erythrina Crista-galli Lectin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+849,"Phaseolus Vulgaris Leucoagglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,10,ASNLinked
+850,"Phaseolus Vulgaris Leucoagglutinin",Vector,,https://ncfg.hms.harvard.edu/microarray-data/asparagine-linked-glycans-array,50,ASNLinked
+851,E-selectin,"Investigator Provided",,https://doi.org/10.1039/d0cc03268a,20,PolyLacNAc
+852,"Receptor for Advanced Glycosylation End Products","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,1,HeparanSulfate
+853,"Receptor for Advanced Glycosylation End Products","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.3,HeparanSulfate
+854,"Antithrombin III","Enzyme Research Laboratories",,https://doi.org/10.1073/pnas.2012935118,10,HeparanSulfate
+855,"Antithrombin III","Enzyme Research Laboratories",,https://doi.org/10.1073/pnas.2012935118,3,HeparanSulfate
+856,"Bone morphogenetic protein 2","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,1,HeparanSulfate
+857,"Bone morphogenetic protein 2","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.3,HeparanSulfate
+858,"Basic Fibroblast Growth Factor","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,1,HeparanSulfate
+859,"Basic Fibroblast Growth Factor","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.3,HeparanSulfate
+860,"Keratinocyte growth factor","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.3,HeparanSulfate
+861,"Keratinocyte growth factor","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.1,HeparanSulfate
+862,"Glia-activating factor","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.1,HeparanSulfate
+863,"Glia-activating factor","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,0.03,HeparanSulfate
+864,"Fibroblast growth factor receptor 1","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,10,HeparanSulfate
+865,"Fibroblast growth factor receptor 1","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,3,HeparanSulfate
+866,"Heparin cofactor II","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,3,HeparanSulfate
+867,"Heparin cofactor II","Sino Biological",,https://doi.org/10.1073/pnas.2012935118,1,HeparanSulfate
+868,"Herpes Simplex Virus Glycoprotein D",abcam,,https://doi.org/10.1073/pnas.2012935118,80,HeparanSulfate
+869,"Herpes Simplex Virus Glycoprotein D",abcam,,https://doi.org/10.1073/pnas.2012935118,20,HeparanSulfate
+870,Neuropilin-1,"Investigator Provided",,https://doi.org/10.1073/pnas.2012935118,30,HeparanSulfate
+871,Neuropilin-1,"Investigator Provided",,https://doi.org/10.1073/pnas.2012935118,10,HeparanSulfate
+872,Stabilin-2,R&Dsystems,,https://doi.org/10.1073/pnas.2012935118,30,HeparanSulfate
+873,Stabilin-2,R&Dsystems,,https://doi.org/10.1073/pnas.2012935118,10,HeparanSulfate
+874,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,0.1,Gildersleeve
+875,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,0.3,Gildersleeve
+876,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,1,Gildersleeve
+877,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,10,Gildersleeve
+878,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,100,Gildersleeve
+879,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,10,Huflejt
+880,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,100,Huflejt
+881,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,1,Reichardt
+882,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,10,Reichardt
+883,"Canavalia Ensiformis Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,50,Reichardt
+884,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,0.1,Gildersleeve
+885,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,0.3,Gildersleeve
+886,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,1,Gildersleeve
+887,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,10,Gildersleeve
+888,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,100,Gildersleeve
+889,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,10,Huflejt
+890,"Helix Pomatia Agglutinin",Sigma,,https://doi.org/10.1093/glycob/cwu019,100,Huflejt
+891,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,0.3,Gildersleeve
+892,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,1,Gildersleeve
+893,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,10,Gildersleeve
+894,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,100,Gildersleeve
+895,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,0.2,Joshi
+896,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,0.3,Joshi
+897,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,1,Joshi
+898,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,10,Joshi
+899,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,50,Joshi
+900,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,0.1,Gildersleeve
+901,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,0.3,Gildersleeve
+902,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,1,Gildersleeve
+903,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,10,Gildersleeve
+904,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,100,Gildersleeve
+905,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,10,Huflejt
+906,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,100,Huflejt
+907,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,1,Reichardt
+908,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,10,Reichardt
+909,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1093/glycob/cwu019,50,Reichardt
+910,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,0.1,Gildersleeve
+911,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,0.3,Gildersleeve
+912,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,1,Gildersleeve
+913,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,10,Gildersleeve
+914,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,100,Gildersleeve
+915,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,10,Huflejt
+916,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,100,Huflejt
+917,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,1,Reichardt
+918,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,10,Reichardt
+919,"Wheat Germ Agglutinin","EY Labs",,https://doi.org/10.1093/glycob/cwu019,50,Reichardt
+920,"Aleuria Aurantia Lectin",Vector,,,10,ZBioGeneral100
+921,"Aleuria Aurantia Lectin",Vector,,,10,ZBioGeneral100
+922,"Aleuria Aurantia Lectin",Vector,,,10,ZBioAcGc
+923,"Aleuria Aurantia Lectin",Vector,,,10,ZBioBisectingN
+924,"Aleuria Aurantia Lectin",Vector,,,10,ZBioGSL
+925,"Aleuria Aurantia Lectin",Vector,,,10,ZBioHepSulf
+926,"Aleuria Aurantia Lectin",Vector,,,10,ZBioLew
+927,"Aleuria Aurantia Lectin",Vector,,,10,ZBioN100
+928,"Aleuria Aurantia Lectin",Vector,,,10,ZBioOMan
+929,"Aleuria Aurantia Lectin",Vector,,,10,ZBioHMO
+930,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioAcGc
+931,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioBisectingN
+932,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioGeneral100
+933,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioHepSulf
+934,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioN100
+935,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioOMan
+936,"Maackia Amurensis Lectin 1",Vector,,,5,ZBioBisectingN
+937,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioGeneral100
+938,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioAcGc
+939,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioGeneral100
+940,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioGSL
+941,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioHepSulf
+942,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioLew
+943,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioN100
+944,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioOGlycan
+945,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioHMO
+946,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioAcGc
+947,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioBisectingN
+948,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioGeneral100
+949,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioGSL
+950,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioHepSulf
+951,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioLew
+952,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioN100
+953,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioOGlycan
+954,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioHMO
+955,"Ricinus Communis Agglutinin",Vector,,,2,ZBioGeneral100
+956,"Ricinus Communis Agglutinin",Vector,,,2,ZBioAcGc
+957,"Ricinus Communis Agglutinin",Vector,,,2,ZBioBisectingN
+958,"Ricinus Communis Agglutinin",Vector,,,2,ZBioGeneral100
+959,"Ricinus Communis Agglutinin",Vector,,,2,ZBioGSL
+960,"Ricinus Communis Agglutinin",Vector,,,2,ZBioHepSulf
+961,"Ricinus Communis Agglutinin",Vector,,,2,ZBioLew
+962,"Ricinus Communis Agglutinin",Vector,,,2,ZBioN100
+963,"Ricinus Communis Agglutinin",Vector,,,2,ZBioOGlycan
+964,"Ricinus Communis Agglutinin",Vector,,,2,ZBioHMO
+965,"Wheat Germ Agglutinin",Vector,,,0.2,ZBioAcGc
+966,"Wheat Germ Agglutinin",Vector,,,0.2,ZBioGeneral100
+967,"Wheat Germ Agglutinin",Vector,,,1,ZBioBisectingN
+968,"Wheat Germ Agglutinin",Vector,,,1,ZBioGeneral100
+969,"Wheat Germ Agglutinin",Vector,,,5,ZBioHepSulf
+970,"Wheat Germ Agglutinin",Vector,,,5,ZBioBisectingN
+971,"Wheat Germ Agglutinin",Vector,,,5,ZBioGSL
+972,"Wheat Germ Agglutinin",Vector,,,5,ZBioHepSulf
+973,"Wheat Germ Agglutinin",Vector,,,5,ZBioLew
+974,"Wheat Germ Agglutinin",Vector,,,5,ZBioOGlycan
+975,"Wheat Germ Agglutinin",Vector,,,5,ZBioHMO
+976,"Wheat Germ Agglutinin",Vector,,,10,ZBioN100
+977,"Cholera Toxin B",Sigma,,,0.1,ZBioGeneral100
+978,"Dolichos Biflorus Agglutinin",Vector,,,10,ZBioGeneral100
+979,"Galanthus Nivalis Agglutinin",Vector,,,10,ZBioGeneral100
+980,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,,10,ZBioGeneral100
+981,"Griffonia Simplicifolia Lectin 2",Vector,,,10,ZBioGeneral100
+982,"Lens Culinaris Agglutinin",Vector,,,10,ZBioGeneral100
+983,"Lycopersicon Esculentum Lectin",Vector,,,5,ZBioGeneral100
+984,"Lotus Tetragonolobus Lectin",Vector,,,10,ZBioGeneral100
+985,"Lotus Tetragonolobus Lectin",Vector,,,10,ZBioGeneral100
+986,"Peanut Agglutinin",Vector,,,10,ZBioGeneral100
+987,"Soybean Agglutinin",Vector,,,10,ZBioGeneral100
+988,Siglec-7,"Investigator Provided",,,1X,ZBioGeneral100
+989,"Sambucus Nigra Agglutinin 1",Vector,,,20,ZBioGeneral100
+990,"Sambucus Nigra Agglutinin 1",Vector,,,20,ZBioGeneral100
+991,"Solanum Tuberosum Lectin",Vector,,,5,ZBioGeneral100
+992,"Ulex Europaeus Agglutinin 1",Vector,,,10,ZBioGeneral100
+993,"Ulex Europaeus Agglutinin 1",Vector,,,10,ZBioGeneral100
+994,"Vicia Villosa Lectin",Vector,,,10,ZBioGeneral100
+995,"Aleuria Aurantia Lectin",Vector,,,2,ZBioCatchAll
+996,"Amaranthus Caudatus Agglutinin",BioWorld,,,10,ZBioCatchAll
+997,"Burkholderia Cenocepacia Lectin C N-Terminal",GLYcoDiag,,,10,ZBioCatchAll
+998,"Bauhinia Purpurea Lectin",Vector,,,10,ZBioCatchAll
+999,"Hedge Bindweed Lectin","Investigator Provided",,,10,ZBioCatchAll
+1000,"Canavalia Ensiformis Agglutinin",Vector,,,10,ZBioCatchAll
+1001,"Cholera Toxin B",Sigma,,,1,ZBioCatchAll
+1002,"Dolichos Biflorus Agglutinin",Vector,,,10,ZBioCatchAll
+1003,"Datura Stramonium Agglutinin",Vector,,,10,ZBioCatchAll
+1004,"Erythrina Crista-galli Lectin",Vector,,,10,ZBioCatchAll
+1005,"Euonymus Europaeus Agglutinin",GlycoMatrix,,,10,ZBioCatchAll
+1006,"Galanthus Nivalis Agglutinin",Vector,,,10,ZBioCatchAll
+1007,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,,10,ZBioCatchAll
+1008,"Griffonia Simplicifolia Lectin 2",Vector,,,10,ZBioCatchAll
+1009,"Helix Aspersa Agglutinin","EY Labs",,,10,ZBioCatchAll
+1010,"Hippeastrum Hybrid Lectin","EY Labs",,,10,ZBioCatchAll
+1011,"Helix Pomatia Agglutinin",Sigma,,,10,ZBioCatchAll
+1012,"Artocarpus Integrifolia Agglutinin",Vector,,,10,ZBioCatchAll
+1013,"Lens Culinaris Agglutinin",Vector,,,10,ZBioCatchAll
+1014,"Lycopersicon Esculentum Lectin",Vector,,,10,ZBioCatchAll
+1015,"Lotus Tetragonolobus Lectin",Vector,,,10,ZBioCatchAll
+1016,"Maackia Amurensis Lectin 1",Vector,,,10,ZBioCatchAll
+1017,"Maackia Amurensis Lectin 2",Vector,,,10,ZBioCatchAll
+1018,"Morus Nigra Lectin G","EY Labs",,,10,ZBioCatchAll
+1019,"Morus Nigra Lectin M","EY Labs",,,10,ZBioCatchAll
+1020,"Narcissus Pseudonarcissus Agglutinin",Vector,,,10,ZBioCatchAll
+1021,"Phaseolus Vulgaris Erythroagglutinin",Vector,,,10,ZBioCatchAll
+1022,"Phaseolus Vulgaris Leucoagglutinin",Vector,,,10,ZBioCatchAll
+1023,"Peanut Agglutinin",Vector,,,10,ZBioCatchAll
+1024,"Pisum Sativum Agglutinin",Vector,,,10,ZBioCatchAll
+1025,"Psophocarpus Tetragonolobus Agglutinin","EY Labs",,,10,ZBioCatchAll
+1026,"Ricinus Communis Agglutinin",Vector,,,10,ZBioCatchAll
+1027,"Robinia Pseudoacacia Agglutinin","EY Labs",,,10,ZBioCatchAll
+1028,"Ralstonia Solanacearum Lectin 1",GLYcoDiag,,,10,ZBioCatchAll
+1029,"Soybean Agglutinin",Vector,,,10,ZBioCatchAll
+1030,"Sambucus Nigra Agglutinin 1",Vector,,,20,ZBioCatchAll
+1031,"Solanum Tuberosum Lectin",Vector,,,10,ZBioCatchAll
+1032,"Ulex Europaeus Agglutinin 1",Vector,,,10,ZBioCatchAll
+1033,"Vicia Villosa Lectin",Vector,,,10,ZBioCatchAll
+1034,"Wisteria Floribunda Agglutinin",Vector,,,10,ZBioCatchAll
+1035,"Wheat Germ Agglutinin",Vector,,,2,ZBioCatchAll
+1036,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",primscreen_3349,,0.05,CFG
+1037,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",primscreen_3348,,0.2,CFG
+1038,"Burkholderia Cenocepacia Lectin C C-Terminal","Investigator Provided",primscreen_3347,,1,CFG
+1039,"Burkholderia Cenocepacia Lectin A","Investigator Provided",primscreen_3371,,0.1,CFG
+1040,"Burkholderia Cenocepacia Lectin A","Investigator Provided",primscreen_3370,,0.5,CFG
+1041,"Burkholderia Cenocepacia Lectin A","Investigator Provided",primscreen_3369,,1,CFG
+1042,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1043,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+1044,"Aleuria Aurantia Lectin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+1045,"Amaranthus Caudatus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1046,"Artocarpus Integrifolia Agglutinin",Vector,,,0.1,CFG
+1047,"Artocarpus Integrifolia Agglutinin",Vector,,,1,CFG
+1048,"Artocarpus Integrifolia Agglutinin",Vector,,,10,CFG
+1049,"Artocarpus Integrifolia Agglutinin",Vector,,,100,CFG
+1050,"Allium Porrum Agglutinin","Investigator Provided",primscreen_1987,,5,CFG
+1051,"Allium Porrum Agglutinin","Investigator Provided",primscreen_1988,,1,CFG
+1052,"Allium Porrum Agglutinin","Investigator Provided",primscreen_1989,,0.5,CFG
+1053,"Burkholderia Cenocepacia Lectin B C-Terminal","Investigator Provided",primscreen_3357,,0.1,CFG
+1054,"Burkholderia Cenocepacia Lectin B C-Terminal","Investigator Provided",primscreen_3356,,0.5,CFG
+1055,"Burkholderia Cenocepacia Lectin B C-Terminal","Investigator Provided",primscreen_3355,,1,CFG
+1056,"Burkholderia Cenocepacia Lectin B N-Terminal","Investigator Provided",primscreen_3354,,10,CFG
+1057,"Burkholderia Cenocepacia Lectin B N-Terminal","Investigator Provided",primscreen_3353,,100,CFG
+1058,"Burkholderia Cenocepacia Lectin C N-Terminal","Investigator Provided",primscreen_3346,,1,CFG
+1059,"Burkholderia Cenocepacia Lectin C N-Terminal","Investigator Provided",primscreen_3345,,5,CFG
+1060,"Burkholderia Cenocepacia Lectin C N-Terminal","Investigator Provided",primscreen_3344,,20,CFG
+1061,"Burkholderia Cenocepacia Lectin D C-Terminal","Investigator Provided",primscreen_3352,,0.5,CFG
+1062,"Burkholderia Cenocepacia Lectin D C-Terminal","Investigator Provided",primscreen_3351,,1,CFG
+1063,"Burkholderia Cenocepacia Lectin D C-Terminal","Investigator Provided",primscreen_3350,,10,CFG
+1064,"Bauhinia Purpurea Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1065,"Hedge Bindweed Lectin","Investigator Provided",primscreen_3430,,2,CFG
+1066,"Hedge Bindweed Lectin","Investigator Provided",primscreen_3429,,10,CFG
+1067,"Hedge Bindweed Lectin","Investigator Provided",primscreen_3428,,50,CFG
+1068,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1069,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1021/acs.analchem.9b01988,100,NGGM
+1070,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+1071,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1093/glycob/cwz100,0.01,AsymN
+1072,"Cyanovirin-N Control","Investigator Provided",primscreen_2998,,100,CFG
+1073,"Dolichos Biflorus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1074,"Datura Stramonium Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1075,"Erythrina Crista-galli Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1076,"Euonymus Europaeus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1077,"Galanthus Nivalis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1078,"Griffonia Simplicifolia Lectin 1 Isolectin B4",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1079,"Griffonia Simplicifolia Lectin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1080,"Griffonia Simplicifolia Lectin 2",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1081,"Hippeastrum Hybrid Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1082,"Artocarpus Integrifolia Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1083,"Lens Culinaris Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1084,"Lycopersicon Esculentum Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1085,"Lotus Tetragonolobus Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1086,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1087,"Maackia Amurensis Lectin 2",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1088,"Maclura Pomifera Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1089,"Narcissus Pseudonarcissus Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1090,"Phaseolus Vulgaris Erythroagglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1091,"Phaseolus Vulgaris Leucoagglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1092,"Peanut Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1093,"Pisum Sativum Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1094,"Psophocarpus Tetragonolobus Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1095,"Psophocarpus Tetragonolobus Agglutinin 2",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1096,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1097,"Soybean Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1098,"Sophora Japonica Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1099,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1100,"Solanum Tuberosum Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1101,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1102,"Vicia Villosa Lectin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1103,"Wisteria Floribunda Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1104,"Wheat Germ Agglutinin",Vector,,https://doi.org/10.1074/mcp.ra119.001309,5,GlycanBead
+1105,"Griffonia Simplicifolia Lectin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1106,"Canavalia Ensiformis Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1107,"Dolichos Biflorus Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,50,Microbial
+1108,"Maackia Amurensis Lectin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1109,"Peanut Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1110,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1111,"Soybean Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1112,"Sambucus Nigra Agglutinin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,50,Microbial
+1113,"Ulex Europaeus Agglutinin 1",Vector,,https://doi.org/10.1073/pnas.1800853116,50,Microbial
+1114,"Wheat Germ Agglutinin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1115,"Erythrina Crista-galli Lectin",Vector,,https://doi.org/10.1073/pnas.1800853116,20,Microbial
+1116,"Human Galectin 9","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,0.6,GHMO
+1117,"Human Galectin 9","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,0.8,GHMO
+1118,"Human Galectin 9","Investigator Provided",,https://doi.org/10.1021/acs.analchem.7b04293,3,GHMO
+1119,"Galanthus Nivalis Agglutinin",Sigma,primscreen_5932,,200,CFG
+1120,"Galanthus Nivalis Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+1121,"Hericium Erinaceus Lectin 2","Investigator Provided",,,2,CFG
+1122,"Hericium Erinaceus Lectin 2","Investigator Provided",,,20,CFG
+1123,"Hericium Erinaceus Lectin 2","Investigator Provided",,,200,CFG
+1124,"Hippeastrum Hybrid Lectin",Vector,,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+1125,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4565,,1,CFG
+1126,"Artocarpus Integrifolia Agglutinin","EY Labs",primscreen_4566,,100,CFG
+1127,"Lotus Tetragonolobus Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data,1,NCFG
+1128,"Lotus Tetragonolobus Lectin",Vector,,https://ncfg.hms.harvard.edu/ncfg-data/microarray-data,10,NCFG
+1129,"Narcissus Pseudonarcissus Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,10,OligoMan
+1130,"Pseudomonas Aeruginosa Lectin 2","Investigator Provided",primscreen_3378,,0.1,CFG
+1131,"Pseudomonas Aeruginosa Lectin 2","Investigator Provided",primscreen_3377,,1,CFG
+1132,"Pseudomonas Aeruginosa Lectin 2","Investigator Provided",primscreen_3376,,10,CFG
+1133,"Perseau Americana Agglutinin","EY Labs",primscreen_4609,,100,CFG
+1134,"Phaseolus Vulgaris Leucoagglutinin",Vector,primscreen_4636,,0.1,CFG
+1135,"Phaseolus Vulgaris Leucoagglutinin",Vector,primscreen_4637,,1,CFG
+1136,"Phaseolus Vulgaris Leucoagglutinin",Vector,primscreen_4640,,10,CFG
+1137,"Phaseolus Vulgaris Leucoagglutinin",Vector,primscreen_4641,,100,CFG
+1138,"Polyporus Squamosus Lectin","EY Labs",primscreen_4634,,0.1,CFG
+1139,"Polyporus Squamosus Lectin","EY Labs",primscreen_4635,,1,CFG
+1140,"Polyporus Squamosus Lectin","EY Labs",primscreen_4638,,10,CFG
+1141,"Polyporus Squamosus Lectin","EY Labs",primscreen_4639,,100,CFG
+1142,"Ricinus Communis Agglutinin",Vector,,https://doi.org/10.1126/sciadv.abf6834,1,OligoMan
+1143,"Recombinant Hericium Erinaceus Lectin 1","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,5,CFG
+1144,"Recombinant Hericium Erinaceus Lectin 1","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,50,CFG
+1145,"Recombinant Hericium Erinaceus Lectin 2","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,5,CFG
+1146,"Recombinant Hericium Erinaceus Lectin 2","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,50,CFG
+1147,"Recombinant Hericium Erinaceus Lectin 2","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,5,CFG
+1148,"Recombinant Hericium Erinaceus Lectin 2","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,50,CFG
+1149,"Recombinant Macrolepiota Procera Lectin","Investigator Provided",primscreen_5379,,0.2,CFG
+1150,"Recombinant Macrolepiota Procera Lectin","Investigator Provided",primscreen_5380,,2,CFG
+1151,"Recombinant Macrolepiota Procera Lectin","Investigator Provided",primscreen_5381,,20,CFG
+1152,"Recombinant Macrolepiota Procera Lectin","Investigator Provided",primscreen_5378,,200,CFG
+1153,"Ralstonia Solanacearum Lectin 2","Investigator Provided",primscreen_3361,,0.5,CFG
+1154,"Ralstonia Solanacearum Lectin 2","Investigator Provided",primscreen_3360,,1,CFG
+1155,"Ralstonia Solanacearum Lectin 2","Investigator Provided",primscreen_3359,,10,CFG
+1156,"Recombinant Stereum Hirsutum Lectin 1","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,5,CFG
+1157,"Recombinant Stereum Hirsutum Lectin 1","Investigator Provided",,https://doi.org/10.1016/j.ijbiomac.2020.01.097,50,CFG
+1158,"Clone TRA-1-60 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,primscreen_3454,,25,CFG
+1159,"Clone TRA-1-60 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,primscreen_3453,,100,CFG
+1160,"Clone TRA-1-81 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,primscreen_3452,,25,CFG
+1161,"Clone TRA-1-81 Anti-Stem Type1-Type2 Di-LacNAc",Antibody,primscreen_3451,,100,CFG
+1162,"Dolichos Biflorus Agglutinin","EY Labs",primscreen_4483,NULL,10,CFG
