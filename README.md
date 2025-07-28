@@ -13,7 +13,7 @@ This project aims to analyse and apply glycowork's deep learning models to find 
 
 - Start with `ESM Embeddings.ipynb` which explains how the amino acid sequences are converted to vector embeddings leveraging `ESM2`.
 - `Reproducing LectinOracle.ipynb` simply retrains a model with similar architecture as the one used in `glycowork`. I did this to make sure I understood the details of how this model worked.
-- `Glycowork ML Demos.ipynb` is just preliminary exploration of the package `glycowork` which is used extensively in this project. In fact, all dataset curation is done (not by me) but by the authors of the package. See references.
+- `Exploring Glycowork.ipynb` is just preliminary exploration of the package `glycowork` which is used extensively in this project. In fact, all dataset curation is done (not by me) but by the authors of the package. See references.
 - `NCBI ID.ipynb` is the start towards some further data integration.
 
 # Future Work
