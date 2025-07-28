@@ -2,6 +2,10 @@
 
 This repository leverages the glycowork package to analyze lectin-glycan interactions, with applications in nanobiosensor development for pancreatic cancer detection. Glycoinformatics is the computational study of glycans and is critical because:
 
+<p align="center">
+<img width="598" height="473" alt="image" src="https://github.com/user-attachments/assets/f1d74e1d-c3de-42ab-87d3-27a2c9c45f6b" />
+</p>
+
  - Glycans (sugar chains) decorate cell surfaces and play key roles in cancer progression, immune evasion, and metastasis
  - Lectins are proteins that bind glycans with high specificity making them ideal for nanobiosensor design where lectins act as biorecognition elements to capture cancer-associated glycans.
 
