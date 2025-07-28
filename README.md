@@ -7,6 +7,8 @@ This repository leverages the glycowork package to analyze lectin-glycan interac
 
 This project aims to analyse and apply glycowork's deep learning models to find lectins that are specific to CA 19-9 with the sialyl-lewis A (sLeA) motif. Currently, the most well understood class of lectins that bind to sLeA are selectins. Using generative models to simulate protein structures that mimic selectins could be useful in generating novel proteins that have similar function to lectins. 
 
+![Binding Plot](figures/binding.png)
+
 # References 
 -  https://bojarlab.github.io/glycowork/core.html
 -  Lundstrøm, J., Korhonen, E., Lisacek, F., Bojar, D., 2022. LectinOracle: A Generalizable Deep Learning Model for Lectin–Glycan Binding Prediction. Advanced Science 9, 2103807. https://doi.org/10.1002/advs.202103807
